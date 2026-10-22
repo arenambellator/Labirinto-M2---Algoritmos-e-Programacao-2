@@ -2,11 +2,6 @@
 
 ## Compilar e rodar
 
-```
-g++ -std=c++17 -o jogo jogo.cpp
-./jogo
-```
-
 Rode sempre da pasta onde estão os arquivos `mapaN.csv`. O jogo cria `jogo_salvo.csv`,
 `recordes.csv` e (se faltar) `mapaN.sol` nessa mesma pasta.
 
